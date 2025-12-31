@@ -110,7 +110,7 @@ void runAutomaticMode() {
   if (spinningClockwise) {
     servoLR.write(111); // Rotate CW
   } else {
-    servoLR.write(72);   // Rotate CCW
+    servoLR.write(73);   // Rotate CCW
   }
 
   // ------------------------------------------
