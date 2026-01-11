@@ -41,7 +41,7 @@
 // --- Constants & Configuration ---
 #define TOLERANCE 10    // Value from flowchart
 #define NIGHT_LIMIT 8   // Value from flowchart
-#define LOAD_RESISTANCE 10. 0 
+#define LOAD_RESISTANCE 10.0 
 
 // Speeds for Continuous Servo (90 is Stop)
 #define LR_SPEED_RIGHT 80 // Move Right (Adjust for speed)
